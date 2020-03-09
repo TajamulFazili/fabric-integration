@@ -1,0 +1,16 @@
+/*
+.DS_Store
+src/test/xunit.xml
+**/.DS_Store
+!/.gitignore
+!/src
+!/scripts
+!package.json
+!README.md
+!*.md
+!Jenkinsfile
+!prJenkinsfile
+!LICENSE.txt
+!tsconfig.json
+!tslint.json
+!/.vscode
